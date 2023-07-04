@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { gsap } from "gsap";
 
 function App() {
   return (
